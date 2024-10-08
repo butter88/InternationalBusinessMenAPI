@@ -1,0 +1,12 @@
+# Archivos y carpetas de Visual Studio
+.vs/
+*.vscode/
+
+# Archivos de configuración del entorno que no son necesarios
+*.user
+*.suo
+*.vsidx
+
+# Archivos binarios y compilados
+bin/
+obj/

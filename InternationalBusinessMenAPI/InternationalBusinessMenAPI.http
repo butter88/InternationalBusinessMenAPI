@@ -1,0 +1,6 @@
+@InternationalBusinessMenAPI_HostAddress = http://localhost:5117
+
+GET {{InternationalBusinessMenAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

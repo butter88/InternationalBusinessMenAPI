@@ -1,0 +1,62 @@
+[
+    {
+        "from": "EUR",
+        "to": "USD",
+        "rate": "1.359"
+    },
+    {
+        "from": "CAD",
+        "to": "EUR",
+        "rate": "0.732"
+    },
+    {
+        "from": "USD",
+        "to": "EUR",
+        "rate": "0.736"
+    },
+    {
+        "from": "EUR",
+        "to": "CAD",
+        "rate": "1.366"
+    },
+    {
+        "from": "JPY",
+        "to": "USD",
+        "rate": "0.875"
+    },
+    {
+        "from": "GBP",
+        "to": "USD",
+        "rate": "1.451"
+    },
+    {
+        "from": "AUD",
+        "to": "USD",
+        "rate": "1.232"
+    },
+    {
+        "from": "CAD",
+        "to": "USD",
+        "rate": "1.099"
+    },
+    {
+        "from": "CHF",
+        "to": "USD",
+        "rate": "0.656"
+    },
+    {
+        "from": "CNY",
+        "to": "USD",
+        "rate": "0.656"
+    },
+    {
+        "from": "SEK",
+        "to": "USD",
+        "rate": "0.558"
+    },
+    {
+        "from": "NZD",
+        "to": "USD",
+        "rate": "1.366"
+    }
+]

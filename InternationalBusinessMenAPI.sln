@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35004.147
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "InternationalBusinessMenAPI", "InternationalBusinessMenAPI\InternationalBusinessMenAPI.csproj", "{AD5B3AB2-0C0C-4FC9-87C7-359A3533C925}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InternationalBusinessMen.Tests", "InternationalBusinessMen.Tests\InternationalBusinessMen.Tests.csproj", "{CE3F9EE5-CEE3-4E6F-84E3-8733A442D498}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AD5B3AB2-0C0C-4FC9-87C7-359A3533C925}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD5B3AB2-0C0C-4FC9-87C7-359A3533C925}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD5B3AB2-0C0C-4FC9-87C7-359A3533C925}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD5B3AB2-0C0C-4FC9-87C7-359A3533C925}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE3F9EE5-CEE3-4E6F-84E3-8733A442D498}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE3F9EE5-CEE3-4E6F-84E3-8733A442D498}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE3F9EE5-CEE3-4E6F-84E3-8733A442D498}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE3F9EE5-CEE3-4E6F-84E3-8733A442D498}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DC4D182E-9BA9-4F47-8ACB-DAA5E25D107A}
+	EndGlobalSection
+EndGlobal

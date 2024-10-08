@@ -1,0 +1,1802 @@
+[
+    {
+        "sku": "M20072",
+        "amount": "14.50",
+        "currency": "CNY"
+    },
+    {
+        "sku": "M20072",
+        "amount": "25.15",
+        "currency": "NZD"
+    },
+    {
+        "sku": "M20075",
+        "amount": "19.05",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20062",
+        "amount": "10.71",
+        "currency": "CNY"
+    },
+    {
+        "sku": "R20081",
+        "amount": "15.31",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20061",
+        "amount": "25.43",
+        "currency": "NZD"
+    },
+    {
+        "sku": "R20083",
+        "amount": "20.22",
+        "currency": "NZD"
+    },
+    {
+        "sku": "R20084",
+        "amount": "15.72",
+        "currency": "JPY"
+    },
+    {
+        "sku": "R20083",
+        "amount": "45.59",
+        "currency": "JPY"
+    },
+    {
+        "sku": "B20091",
+        "amount": "23.94",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20072",
+        "amount": "14.00",
+        "currency": "AUD"
+    },
+    {
+        "sku": "M20071",
+        "amount": "29.47",
+        "currency": "GBP"
+    },
+    {
+        "sku": "M20074",
+        "amount": "29.49",
+        "currency": "CNY"
+    },
+    {
+        "sku": "M20074",
+        "amount": "35.81",
+        "currency": "JPY"
+    },
+    {
+        "sku": "T20065",
+        "amount": "8.07",
+        "currency": "GBP"
+    },
+    {
+        "sku": "M20071",
+        "amount": "15.91",
+        "currency": "CAD"
+    },
+    {
+        "sku": "T20064",
+        "amount": "15.39",
+        "currency": "EUR"
+    },
+    {
+        "sku": "R20083",
+        "amount": "20.67",
+        "currency": "EUR"
+    },
+    {
+        "sku": "T20064",
+        "amount": "22.19",
+        "currency": "CNY"
+    },
+    {
+        "sku": "T20065",
+        "amount": "28.82",
+        "currency": "CHF"
+    },
+    {
+        "sku": "R20082",
+        "amount": "24.73",
+        "currency": "AUD"
+    },
+    {
+        "sku": "B20093",
+        "amount": "26.59",
+        "currency": "SEK"
+    },
+    {
+        "sku": "M20074",
+        "amount": "1.24",
+        "currency": "CNY"
+    },
+    {
+        "sku": "M20073",
+        "amount": "6.33",
+        "currency": "JPY"
+    },
+    {
+        "sku": "B20094",
+        "amount": "29.31",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20064",
+        "amount": "26.78",
+        "currency": "CHF"
+    },
+    {
+        "sku": "B20092",
+        "amount": "11.04",
+        "currency": "CHF"
+    },
+    {
+        "sku": "B20091",
+        "amount": "18.88",
+        "currency": "JPY"
+    },
+    {
+        "sku": "R20083",
+        "amount": "28.35",
+        "currency": "USD"
+    },
+    {
+        "sku": "R20081",
+        "amount": "22.97",
+        "currency": "AUD"
+    },
+    {
+        "sku": "M20074",
+        "amount": "29.73",
+        "currency": "NZD"
+    },
+    {
+        "sku": "T20065",
+        "amount": "27.96",
+        "currency": "CHF"
+    },
+    {
+        "sku": "B20092",
+        "amount": "13.85",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20072",
+        "amount": "23.33",
+        "currency": "USD"
+    },
+    {
+        "sku": "R20085",
+        "amount": "37.94",
+        "currency": "AUD"
+    },
+    {
+        "sku": "M20072",
+        "amount": "25.81",
+        "currency": "GBP"
+    },
+    {
+        "sku": "B20093",
+        "amount": "17.88",
+        "currency": "CAD"
+    },
+    {
+        "sku": "M20071",
+        "amount": "15.73",
+        "currency": "NZD"
+    },
+    {
+        "sku": "B20093",
+        "amount": "13.90",
+        "currency": "GBP"
+    },
+    {
+        "sku": "M20073",
+        "amount": "16.84",
+        "currency": "NZD"
+    },
+    {
+        "sku": "M20072",
+        "amount": "17.42",
+        "currency": "SEK"
+    },
+    {
+        "sku": "R20085",
+        "amount": "24.61",
+        "currency": "SEK"
+    },
+    {
+        "sku": "R20081",
+        "amount": "20.05",
+        "currency": "SEK"
+    },
+    {
+        "sku": "B20091",
+        "amount": "17.65",
+        "currency": "USD"
+    },
+    {
+        "sku": "M20075",
+        "amount": "10.93",
+        "currency": "CAD"
+    },
+    {
+        "sku": "B20092",
+        "amount": "11.83",
+        "currency": "GBP"
+    },
+    {
+        "sku": "B20094",
+        "amount": "19.85",
+        "currency": "CHF"
+    },
+    {
+        "sku": "M20071",
+        "amount": "19.73",
+        "currency": "JPY"
+    },
+    {
+        "sku": "B20094",
+        "amount": "15.58",
+        "currency": "USD"
+    },
+    {
+        "sku": "T20061",
+        "amount": "19.16",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20071",
+        "amount": "-4.99",
+        "currency": "CAD"
+    },
+    {
+        "sku": "T20062",
+        "amount": "34.80",
+        "currency": "CHF"
+    },
+    {
+        "sku": "M20073",
+        "amount": "6.78",
+        "currency": "CAD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "13.32",
+        "currency": "GBP"
+    },
+    {
+        "sku": "M20071",
+        "amount": "25.87",
+        "currency": "USD"
+    },
+    {
+        "sku": "B20092",
+        "amount": "41.90",
+        "currency": "CAD"
+    },
+    {
+        "sku": "R20084",
+        "amount": "21.00",
+        "currency": "GBP"
+    },
+    {
+        "sku": "M20075",
+        "amount": "14.97",
+        "currency": "NZD"
+    },
+    {
+        "sku": "R20081",
+        "amount": "14.64",
+        "currency": "CHF"
+    },
+    {
+        "sku": "R20085",
+        "amount": "30.97",
+        "currency": "SEK"
+    },
+    {
+        "sku": "T20061",
+        "amount": "24.28",
+        "currency": "CNY"
+    },
+    {
+        "sku": "T20061",
+        "amount": "-4.70",
+        "currency": "SEK"
+    },
+    {
+        "sku": "T20066",
+        "amount": "28.14",
+        "currency": "NZD"
+    },
+    {
+        "sku": "R20084",
+        "amount": "7.69",
+        "currency": "SEK"
+    },
+    {
+        "sku": "R20085",
+        "amount": "3.93",
+        "currency": "AUD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "21.85",
+        "currency": "CHF"
+    },
+    {
+        "sku": "B20092",
+        "amount": "29.65",
+        "currency": "JPY"
+    },
+    {
+        "sku": "R20085",
+        "amount": "9.35",
+        "currency": "CNY"
+    },
+    {
+        "sku": "T20061",
+        "amount": "13.20",
+        "currency": "CNY"
+    },
+    {
+        "sku": "T20062",
+        "amount": "22.32",
+        "currency": "CAD"
+    },
+    {
+        "sku": "R20082",
+        "amount": "22.93",
+        "currency": "EUR"
+    },
+    {
+        "sku": "T20065",
+        "amount": "12.86",
+        "currency": "EUR"
+    },
+    {
+        "sku": "M20071",
+        "amount": "30.49",
+        "currency": "SEK"
+    },
+    {
+        "sku": "T20062",
+        "amount": "33.25",
+        "currency": "USD"
+    },
+    {
+        "sku": "T20062",
+        "amount": "12.49",
+        "currency": "GBP"
+    },
+    {
+        "sku": "R20082",
+        "amount": "8.70",
+        "currency": "CHF"
+    },
+    {
+        "sku": "R20081",
+        "amount": "28.22",
+        "currency": "JPY"
+    },
+    {
+        "sku": "T20065",
+        "amount": "38.97",
+        "currency": "CAD"
+    },
+    {
+        "sku": "T20063",
+        "amount": "28.79",
+        "currency": "EUR"
+    },
+    {
+        "sku": "T20061",
+        "amount": "17.60",
+        "currency": "USD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "19.95",
+        "currency": "GBP"
+    },
+    {
+        "sku": "R20081",
+        "amount": "4.29",
+        "currency": "USD"
+    },
+    {
+        "sku": "B20094",
+        "amount": "19.88",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20063",
+        "amount": "21.91",
+        "currency": "JPY"
+    },
+    {
+        "sku": "B20092",
+        "amount": "18.72",
+        "currency": "AUD"
+    },
+    {
+        "sku": "R20081",
+        "amount": "23.42",
+        "currency": "USD"
+    },
+    {
+        "sku": "R20085",
+        "amount": "11.53",
+        "currency": "CHF"
+    },
+    {
+        "sku": "T20061",
+        "amount": "4.85",
+        "currency": "JPY"
+    },
+    {
+        "sku": "T20066",
+        "amount": "27.10",
+        "currency": "NZD"
+    },
+    {
+        "sku": "R20081",
+        "amount": "20.92",
+        "currency": "CNY"
+    },
+    {
+        "sku": "T20065",
+        "amount": "22.31",
+        "currency": "CAD"
+    },
+    {
+        "sku": "M20071",
+        "amount": "11.91",
+        "currency": "NZD"
+    },
+    {
+        "sku": "M20071",
+        "amount": "28.83",
+        "currency": "SEK"
+    },
+    {
+        "sku": "M20073",
+        "amount": "15.51",
+        "currency": "CAD"
+    },
+    {
+        "sku": "R20084",
+        "amount": "1.98",
+        "currency": "NZD"
+    },
+    {
+        "sku": "R20081",
+        "amount": "24.68",
+        "currency": "EUR"
+    },
+    {
+        "sku": "B20093",
+        "amount": "8.17",
+        "currency": "CNY"
+    },
+    {
+        "sku": "T20065",
+        "amount": "24.95",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20074",
+        "amount": "12.27",
+        "currency": "CHF"
+    },
+    {
+        "sku": "M20075",
+        "amount": "17.63",
+        "currency": "SEK"
+    },
+    {
+        "sku": "B20094",
+        "amount": "11.07",
+        "currency": "USD"
+    },
+    {
+        "sku": "R20082",
+        "amount": "16.65",
+        "currency": "AUD"
+    },
+    {
+        "sku": "R20083",
+        "amount": "19.52",
+        "currency": "CAD"
+    },
+    {
+        "sku": "B20093",
+        "amount": "25.19",
+        "currency": "GBP"
+    },
+    {
+        "sku": "M20074",
+        "amount": "12.34",
+        "currency": "EUR"
+    },
+    {
+        "sku": "T20064",
+        "amount": "24.22",
+        "currency": "JPY"
+    },
+    {
+        "sku": "B20094",
+        "amount": "6.92",
+        "currency": "NZD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "0.09",
+        "currency": "NZD"
+    },
+    {
+        "sku": "B20092",
+        "amount": "16.32",
+        "currency": "NZD"
+    },
+    {
+        "sku": "T20061",
+        "amount": "21.57",
+        "currency": "EUR"
+    },
+    {
+        "sku": "R20084",
+        "amount": "22.71",
+        "currency": "AUD"
+    },
+    {
+        "sku": "R20081",
+        "amount": "42.45",
+        "currency": "NZD"
+    },
+    {
+        "sku": "R20084",
+        "amount": "13.20",
+        "currency": "USD"
+    },
+    {
+        "sku": "T20065",
+        "amount": "17.37",
+        "currency": "GBP"
+    },
+    {
+        "sku": "B20091",
+        "amount": "10.73",
+        "currency": "AUD"
+    },
+    {
+        "sku": "M20072",
+        "amount": "19.40",
+        "currency": "GBP"
+    },
+    {
+        "sku": "T20061",
+        "amount": "41.13",
+        "currency": "NZD"
+    },
+    {
+        "sku": "T20064",
+        "amount": "15.02",
+        "currency": "CAD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "16.76",
+        "currency": "NZD"
+    },
+    {
+        "sku": "M20075",
+        "amount": "25.25",
+        "currency": "NZD"
+    },
+    {
+        "sku": "T20061",
+        "amount": "39.34",
+        "currency": "CNY"
+    },
+    {
+        "sku": "R20084",
+        "amount": "24.14",
+        "currency": "CHF"
+    },
+    {
+        "sku": "M20071",
+        "amount": "20.70",
+        "currency": "GBP"
+    },
+    {
+        "sku": "R20083",
+        "amount": "16.15",
+        "currency": "EUR"
+    },
+    {
+        "sku": "R20081",
+        "amount": "13.85",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20073",
+        "amount": "41.11",
+        "currency": "AUD"
+    },
+    {
+        "sku": "R20083",
+        "amount": "24.39",
+        "currency": "NZD"
+    },
+    {
+        "sku": "M20073",
+        "amount": "18.92",
+        "currency": "EUR"
+    },
+    {
+        "sku": "M20075",
+        "amount": "4.56",
+        "currency": "NZD"
+    },
+    {
+        "sku": "R20082",
+        "amount": "31.17",
+        "currency": "NZD"
+    },
+    {
+        "sku": "T20064",
+        "amount": "13.78",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20066",
+        "amount": "16.45",
+        "currency": "CNY"
+    },
+    {
+        "sku": "T20062",
+        "amount": "24.49",
+        "currency": "GBP"
+    },
+    {
+        "sku": "T20064",
+        "amount": "19.21",
+        "currency": "AUD"
+    },
+    {
+        "sku": "B20092",
+        "amount": "38.70",
+        "currency": "JPY"
+    },
+    {
+        "sku": "R20084",
+        "amount": "36.88",
+        "currency": "GBP"
+    },
+    {
+        "sku": "T20066",
+        "amount": "24.92",
+        "currency": "CHF"
+    },
+    {
+        "sku": "B20091",
+        "amount": "4.73",
+        "currency": "USD"
+    },
+    {
+        "sku": "B20093",
+        "amount": "11.37",
+        "currency": "USD"
+    },
+    {
+        "sku": "B20094",
+        "amount": "27.91",
+        "currency": "GBP"
+    },
+    {
+        "sku": "R20084",
+        "amount": "4.55",
+        "currency": "JPY"
+    },
+    {
+        "sku": "B20094",
+        "amount": "11.57",
+        "currency": "GBP"
+    },
+    {
+        "sku": "R20083",
+        "amount": "23.92",
+        "currency": "GBP"
+    },
+    {
+        "sku": "M20075",
+        "amount": "18.75",
+        "currency": "NZD"
+    },
+    {
+        "sku": "M20074",
+        "amount": "31.24",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20062",
+        "amount": "41.43",
+        "currency": "AUD"
+    },
+    {
+        "sku": "R20084",
+        "amount": "13.01",
+        "currency": "NZD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "19.91",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20073",
+        "amount": "28.89",
+        "currency": "USD"
+    },
+    {
+        "sku": "T20063",
+        "amount": "24.96",
+        "currency": "CHF"
+    },
+    {
+        "sku": "T20065",
+        "amount": "15.67",
+        "currency": "EUR"
+    },
+    {
+        "sku": "M20071",
+        "amount": "22.04",
+        "currency": "AUD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "24.46",
+        "currency": "USD"
+    },
+    {
+        "sku": "R20085",
+        "amount": "5.38",
+        "currency": "USD"
+    },
+    {
+        "sku": "M20072",
+        "amount": "12.82",
+        "currency": "CAD"
+    },
+    {
+        "sku": "M20072",
+        "amount": "17.87",
+        "currency": "NZD"
+    },
+    {
+        "sku": "M20075",
+        "amount": "19.81",
+        "currency": "EUR"
+    },
+    {
+        "sku": "R20085",
+        "amount": "9.97",
+        "currency": "CNY"
+    },
+    {
+        "sku": "B20092",
+        "amount": "28.40",
+        "currency": "SEK"
+    },
+    {
+        "sku": "B20094",
+        "amount": "31.33",
+        "currency": "SEK"
+    },
+    {
+        "sku": "T20061",
+        "amount": "22.24",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20062",
+        "amount": "20.13",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20075",
+        "amount": "20.25",
+        "currency": "SEK"
+    },
+    {
+        "sku": "B20094",
+        "amount": "24.98",
+        "currency": "USD"
+    },
+    {
+        "sku": "R20081",
+        "amount": "18.89",
+        "currency": "AUD"
+    },
+    {
+        "sku": "R20082",
+        "amount": "29.76",
+        "currency": "NZD"
+    },
+    {
+        "sku": "T20062",
+        "amount": "-1.24",
+        "currency": "EUR"
+    },
+    {
+        "sku": "B20091",
+        "amount": "14.74",
+        "currency": "SEK"
+    },
+    {
+        "sku": "T20062",
+        "amount": "0.87",
+        "currency": "GBP"
+    },
+    {
+        "sku": "B20093",
+        "amount": "23.62",
+        "currency": "JPY"
+    },
+    {
+        "sku": "T20063",
+        "amount": "6.80",
+        "currency": "CNY"
+    },
+    {
+        "sku": "T20066",
+        "amount": "38.31",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20061",
+        "amount": "18.92",
+        "currency": "USD"
+    },
+    {
+        "sku": "M20073",
+        "amount": "35.27",
+        "currency": "AUD"
+    },
+    {
+        "sku": "B20094",
+        "amount": "18.85",
+        "currency": "JPY"
+    },
+    {
+        "sku": "T20061",
+        "amount": "32.38",
+        "currency": "AUD"
+    },
+    {
+        "sku": "R20084",
+        "amount": "22.19",
+        "currency": "AUD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "15.16",
+        "currency": "CAD"
+    },
+    {
+        "sku": "R20081",
+        "amount": "35.16",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20064",
+        "amount": "23.12",
+        "currency": "NZD"
+    },
+    {
+        "sku": "M20075",
+        "amount": "16.87",
+        "currency": "USD"
+    },
+    {
+        "sku": "M20075",
+        "amount": "4.01",
+        "currency": "GBP"
+    },
+    {
+        "sku": "T20061",
+        "amount": "30.60",
+        "currency": "CNY"
+    },
+    {
+        "sku": "M20072",
+        "amount": "35.41",
+        "currency": "NZD"
+    },
+    {
+        "sku": "M20071",
+        "amount": "32.75",
+        "currency": "EUR"
+    },
+    {
+        "sku": "R20083",
+        "amount": "19.08",
+        "currency": "USD"
+    },
+    {
+        "sku": "R20083",
+        "amount": "30.27",
+        "currency": "SEK"
+    },
+    {
+        "sku": "B20094",
+        "amount": "21.66",
+        "currency": "CHF"
+    },
+    {
+        "sku": "M20074",
+        "amount": "25.94",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20072",
+        "amount": "32.13",
+        "currency": "CAD"
+    },
+    {
+        "sku": "M20071",
+        "amount": "30.58",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20071",
+        "amount": "2.41",
+        "currency": "GBP"
+    },
+    {
+        "sku": "T20063",
+        "amount": "28.66",
+        "currency": "CHF"
+    },
+    {
+        "sku": "T20064",
+        "amount": "18.96",
+        "currency": "JPY"
+    },
+    {
+        "sku": "B20094",
+        "amount": "19.85",
+        "currency": "GBP"
+    },
+    {
+        "sku": "B20091",
+        "amount": "27.96",
+        "currency": "EUR"
+    },
+    {
+        "sku": "T20063",
+        "amount": "-0.67",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20074",
+        "amount": "19.11",
+        "currency": "SEK"
+    },
+    {
+        "sku": "R20084",
+        "amount": "8.99",
+        "currency": "CNY"
+    },
+    {
+        "sku": "R20081",
+        "amount": "24.88",
+        "currency": "JPY"
+    },
+    {
+        "sku": "T20066",
+        "amount": "6.34",
+        "currency": "AUD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "25.04",
+        "currency": "EUR"
+    },
+    {
+        "sku": "T20064",
+        "amount": "18.93",
+        "currency": "NZD"
+    },
+    {
+        "sku": "T20065",
+        "amount": "9.65",
+        "currency": "EUR"
+    },
+    {
+        "sku": "B20094",
+        "amount": "39.65",
+        "currency": "SEK"
+    },
+    {
+        "sku": "M20074",
+        "amount": "20.35",
+        "currency": "SEK"
+    },
+    {
+        "sku": "M20074",
+        "amount": "7.74",
+        "currency": "USD"
+    },
+    {
+        "sku": "T20062",
+        "amount": "20.42",
+        "currency": "USD"
+    },
+    {
+        "sku": "R20082",
+        "amount": "12.64",
+        "currency": "CNY"
+    },
+    {
+        "sku": "T20065",
+        "amount": "25.80",
+        "currency": "NZD"
+    },
+    {
+        "sku": "T20065",
+        "amount": "36.45",
+        "currency": "CNY"
+    },
+    {
+        "sku": "M20075",
+        "amount": "17.51",
+        "currency": "CHF"
+    },
+    {
+        "sku": "R20081",
+        "amount": "20.29",
+        "currency": "EUR"
+    },
+    {
+        "sku": "T20063",
+        "amount": "29.69",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20075",
+        "amount": "11.89",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20064",
+        "amount": "10.95",
+        "currency": "CHF"
+    },
+    {
+        "sku": "B20094",
+        "amount": "13.53",
+        "currency": "SEK"
+    },
+    {
+        "sku": "B20094",
+        "amount": "9.18",
+        "currency": "GBP"
+    },
+    {
+        "sku": "T20062",
+        "amount": "33.43",
+        "currency": "EUR"
+    },
+    {
+        "sku": "M20074",
+        "amount": "6.92",
+        "currency": "GBP"
+    },
+    {
+        "sku": "M20074",
+        "amount": "24.02",
+        "currency": "CNY"
+    },
+    {
+        "sku": "B20094",
+        "amount": "36.47",
+        "currency": "JPY"
+    },
+    {
+        "sku": "T20064",
+        "amount": "11.24",
+        "currency": "NZD"
+    },
+    {
+        "sku": "M20071",
+        "amount": "6.17",
+        "currency": "CNY"
+    },
+    {
+        "sku": "B20093",
+        "amount": "24.97",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20063",
+        "amount": "18.06",
+        "currency": "CAD"
+    },
+    {
+        "sku": "R20084",
+        "amount": "16.18",
+        "currency": "CNY"
+    },
+    {
+        "sku": "B20092",
+        "amount": "15.87",
+        "currency": "CHF"
+    },
+    {
+        "sku": "R20081",
+        "amount": "-5.03",
+        "currency": "GBP"
+    },
+    {
+        "sku": "T20063",
+        "amount": "26.85",
+        "currency": "EUR"
+    },
+    {
+        "sku": "R20085",
+        "amount": "14.23",
+        "currency": "CNY"
+    },
+    {
+        "sku": "T20063",
+        "amount": "27.55",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20071",
+        "amount": "40.43",
+        "currency": "JPY"
+    },
+    {
+        "sku": "B20093",
+        "amount": "36.20",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20063",
+        "amount": "26.41",
+        "currency": "USD"
+    },
+    {
+        "sku": "T20065",
+        "amount": "11.85",
+        "currency": "CAD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "27.64",
+        "currency": "JPY"
+    },
+    {
+        "sku": "T20061",
+        "amount": "20.11",
+        "currency": "CAD"
+    },
+    {
+        "sku": "T20066",
+        "amount": "40.67",
+        "currency": "NZD"
+    },
+    {
+        "sku": "R20083",
+        "amount": "0.55",
+        "currency": "EUR"
+    },
+    {
+        "sku": "B20093",
+        "amount": "14.17",
+        "currency": "AUD"
+    },
+    {
+        "sku": "B20092",
+        "amount": "22.61",
+        "currency": "USD"
+    },
+    {
+        "sku": "B20092",
+        "amount": "12.77",
+        "currency": "CHF"
+    },
+    {
+        "sku": "R20081",
+        "amount": "44.34",
+        "currency": "USD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "23.71",
+        "currency": "SEK"
+    },
+    {
+        "sku": "M20071",
+        "amount": "13.96",
+        "currency": "JPY"
+    },
+    {
+        "sku": "R20081",
+        "amount": "21.84",
+        "currency": "CNY"
+    },
+    {
+        "sku": "M20073",
+        "amount": "23.53",
+        "currency": "SEK"
+    },
+    {
+        "sku": "B20091",
+        "amount": "15.12",
+        "currency": "AUD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "15.67",
+        "currency": "AUD"
+    },
+    {
+        "sku": "M20075",
+        "amount": "22.90",
+        "currency": "GBP"
+    },
+    {
+        "sku": "B20093",
+        "amount": "40.75",
+        "currency": "NZD"
+    },
+    {
+        "sku": "T20066",
+        "amount": "17.50",
+        "currency": "JPY"
+    },
+    {
+        "sku": "T20063",
+        "amount": "33.01",
+        "currency": "USD"
+    },
+    {
+        "sku": "M20074",
+        "amount": "1.39",
+        "currency": "CHF"
+    },
+    {
+        "sku": "M20071",
+        "amount": "29.97",
+        "currency": "AUD"
+    },
+    {
+        "sku": "R20082",
+        "amount": "22.42",
+        "currency": "CAD"
+    },
+    {
+        "sku": "T20063",
+        "amount": "4.70",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20072",
+        "amount": "29.16",
+        "currency": "GBP"
+    },
+    {
+        "sku": "M20074",
+        "amount": "30.90",
+        "currency": "USD"
+    },
+    {
+        "sku": "R20085",
+        "amount": "24.80",
+        "currency": "CAD"
+    },
+    {
+        "sku": "T20061",
+        "amount": "35.83",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20061",
+        "amount": "20.72",
+        "currency": "NZD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "15.22",
+        "currency": "NZD"
+    },
+    {
+        "sku": "T20061",
+        "amount": "20.87",
+        "currency": "GBP"
+    },
+    {
+        "sku": "B20093",
+        "amount": "10.53",
+        "currency": "CNY"
+    },
+    {
+        "sku": "R20085",
+        "amount": "32.87",
+        "currency": "AUD"
+    },
+    {
+        "sku": "M20074",
+        "amount": "15.55",
+        "currency": "GBP"
+    },
+    {
+        "sku": "R20083",
+        "amount": "33.30",
+        "currency": "NZD"
+    },
+    {
+        "sku": "M20073",
+        "amount": "39.99",
+        "currency": "AUD"
+    },
+    {
+        "sku": "R20085",
+        "amount": "2.21",
+        "currency": "NZD"
+    },
+    {
+        "sku": "T20065",
+        "amount": "34.96",
+        "currency": "NZD"
+    },
+    {
+        "sku": "B20093",
+        "amount": "28.68",
+        "currency": "GBP"
+    },
+    {
+        "sku": "R20084",
+        "amount": "10.63",
+        "currency": "GBP"
+    },
+    {
+        "sku": "B20091",
+        "amount": "22.17",
+        "currency": "NZD"
+    },
+    {
+        "sku": "B20094",
+        "amount": "24.42",
+        "currency": "NZD"
+    },
+    {
+        "sku": "B20092",
+        "amount": "35.93",
+        "currency": "CNY"
+    },
+    {
+        "sku": "B20092",
+        "amount": "14.89",
+        "currency": "CAD"
+    },
+    {
+        "sku": "M20073",
+        "amount": "10.10",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20065",
+        "amount": "18.74",
+        "currency": "GBP"
+    },
+    {
+        "sku": "T20061",
+        "amount": "20.56",
+        "currency": "CNY"
+    },
+    {
+        "sku": "M20074",
+        "amount": "30.94",
+        "currency": "AUD"
+    },
+    {
+        "sku": "M20074",
+        "amount": "18.42",
+        "currency": "GBP"
+    },
+    {
+        "sku": "B20092",
+        "amount": "15.73",
+        "currency": "JPY"
+    },
+    {
+        "sku": "R20085",
+        "amount": "28.23",
+        "currency": "EUR"
+    },
+    {
+        "sku": "M20072",
+        "amount": "20.73",
+        "currency": "EUR"
+    },
+    {
+        "sku": "M20071",
+        "amount": "21.61",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20072",
+        "amount": "27.75",
+        "currency": "GBP"
+    },
+    {
+        "sku": "T20063",
+        "amount": "12.82",
+        "currency": "NZD"
+    },
+    {
+        "sku": "T20066",
+        "amount": "29.06",
+        "currency": "AUD"
+    },
+    {
+        "sku": "B20094",
+        "amount": "17.31",
+        "currency": "CNY"
+    },
+    {
+        "sku": "B20094",
+        "amount": "8.93",
+        "currency": "CHF"
+    },
+    {
+        "sku": "T20061",
+        "amount": "11.29",
+        "currency": "JPY"
+    },
+    {
+        "sku": "M20075",
+        "amount": "3.88",
+        "currency": "USD"
+    },
+    {
+        "sku": "B20093",
+        "amount": "30.86",
+        "currency": "JPY"
+    },
+    {
+        "sku": "T20066",
+        "amount": "16.05",
+        "currency": "USD"
+    },
+    {
+        "sku": "T20065",
+        "amount": "22.35",
+        "currency": "CAD"
+    },
+    {
+        "sku": "B20094",
+        "amount": "38.18",
+        "currency": "EUR"
+    },
+    {
+        "sku": "T20063",
+        "amount": "16.43",
+        "currency": "CNY"
+    },
+    {
+        "sku": "M20072",
+        "amount": "22.38",
+        "currency": "JPY"
+    },
+    {
+        "sku": "T20064",
+        "amount": "28.33",
+        "currency": "USD"
+    },
+    {
+        "sku": "T20066",
+        "amount": "6.73",
+        "currency": "CHF"
+    },
+    {
+        "sku": "R20082",
+        "amount": "27.22",
+        "currency": "CNY"
+    },
+    {
+        "sku": "M20074",
+        "amount": "8.71",
+        "currency": "AUD"
+    },
+    {
+        "sku": "R20081",
+        "amount": "21.43",
+        "currency": "CNY"
+    },
+    {
+        "sku": "M20071",
+        "amount": "29.78",
+        "currency": "JPY"
+    },
+    {
+        "sku": "T20065",
+        "amount": "32.50",
+        "currency": "GBP"
+    },
+    {
+        "sku": "R20085",
+        "amount": "24.20",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20065",
+        "amount": "25.93",
+        "currency": "CHF"
+    },
+    {
+        "sku": "T20064",
+        "amount": "16.90",
+        "currency": "CHF"
+    },
+    {
+        "sku": "T20061",
+        "amount": "23.26",
+        "currency": "EUR"
+    },
+    {
+        "sku": "M20071",
+        "amount": "7.49",
+        "currency": "USD"
+    },
+    {
+        "sku": "M20074",
+        "amount": "5.01",
+        "currency": "EUR"
+    },
+    {
+        "sku": "R20081",
+        "amount": "31.39",
+        "currency": "CHF"
+    },
+    {
+        "sku": "R20083",
+        "amount": "15.24",
+        "currency": "SEK"
+    },
+    {
+        "sku": "M20071",
+        "amount": "30.16",
+        "currency": "AUD"
+    },
+    {
+        "sku": "R20083",
+        "amount": "16.45",
+        "currency": "CNY"
+    },
+    {
+        "sku": "T20065",
+        "amount": "22.57",
+        "currency": "CHF"
+    },
+    {
+        "sku": "B20094",
+        "amount": "42.78",
+        "currency": "SEK"
+    },
+    {
+        "sku": "R20082",
+        "amount": "-7.84",
+        "currency": "EUR"
+    },
+    {
+        "sku": "B20093",
+        "amount": "6.42",
+        "currency": "CAD"
+    },
+    {
+        "sku": "M20073",
+        "amount": "15.31",
+        "currency": "GBP"
+    },
+    {
+        "sku": "B20093",
+        "amount": "31.03",
+        "currency": "CAD"
+    },
+    {
+        "sku": "T20066",
+        "amount": "31.51",
+        "currency": "AUD"
+    },
+    {
+        "sku": "T20064",
+        "amount": "3.70",
+        "currency": "USD"
+    },
+    {
+        "sku": "B20091",
+        "amount": "25.52",
+        "currency": "SEK"
+    },
+    {
+        "sku": "T20063",
+        "amount": "15.31",
+        "currency": "NZD"
+    },
+    {
+        "sku": "T20063",
+        "amount": "25.27",
+        "currency": "CNY"
+    },
+    {
+        "sku": "M20071",
+        "amount": "36.65",
+        "currency": "CHF"
+    },
+    {
+        "sku": "T20064",
+        "amount": "30.14",
+        "currency": "USD"
+    },
+    {
+        "sku": "T20065",
+        "amount": "16.52",
+        "currency": "GBP"
+    },
+    {
+        "sku": "M20075",
+        "amount": "21.99",
+        "currency": "NZD"
+    },
+    {
+        "sku": "M20073",
+        "amount": "10.77",
+        "currency": "USD"
+    },
+    {
+        "sku": "M20072",
+        "amount": "6.48",
+        "currency": "CNY"
+    },
+    {
+        "sku": "R20081",
+        "amount": "18.72",
+        "currency": "CNY"
+    },
+    {
+        "sku": "B20091",
+        "amount": "25.55",
+        "currency": "CNY"
+    },
+    {
+        "sku": "T20061",
+        "amount": "22.98",
+        "currency": "JPY"
+    },
+    {
+        "sku": "R20081",
+        "amount": "2.80",
+        "currency": "GBP"
+    },
+    {
+        "sku": "M20073",
+        "amount": "23.75",
+        "currency": "EUR"
+    },
+    {
+        "sku": "B20092",
+        "amount": "9.51",
+        "currency": "SEK"
+    },
+    {
+        "sku": "R20082",
+        "amount": "19.65",
+        "currency": "CNY"
+    },
+    {
+        "sku": "T20064",
+        "amount": "37.71",
+        "currency": "SEK"
+    },
+    {
+        "sku": "M20072",
+        "amount": "29.86",
+        "currency": "USD"
+    },
+    {
+        "sku": "B20094",
+        "amount": "14.06",
+        "currency": "NZD"
+    },
+    {
+        "sku": "B20094",
+        "amount": "21.78",
+        "currency": "CNY"
+    },
+    {
+        "sku": "M20075",
+        "amount": "6.65",
+        "currency": "CNY"
+    },
+    {
+        "sku": "B20094",
+        "amount": "32.86",
+        "currency": "CAD"
+    },
+    {
+        "sku": "R20082",
+        "amount": "30.62",
+        "currency": "SEK"
+    },
+    {
+        "sku": "T20066",
+        "amount": "4.73",
+        "currency": "NZD"
+    },
+    {
+        "sku": "B20092",
+        "amount": "19.42",
+        "currency": "NZD"
+    },
+    {
+        "sku": "M20074",
+        "amount": "21.03",
+        "currency": "USD"
+    },
+    {
+        "sku": "M20072",
+        "amount": "14.66",
+        "currency": "AUD"
+    },
+    {
+        "sku": "M20072",
+        "amount": "24.47",
+        "currency": "EUR"
+    },
+    {
+        "sku": "T20066",
+        "amount": "17.87",
+        "currency": "GBP"
+    },
+    {
+        "sku": "M20072",
+        "amount": "33.57",
+        "currency": "CHF"
+    },
+    {
+        "sku": "B20094",
+        "amount": "-7.12",
+        "currency": "CNY"
+    },
+    {
+        "sku": "R20081",
+        "amount": "11.44",
+        "currency": "JPY"
+    },
+    {
+        "sku": "B20091",
+        "amount": "47.42",
+        "currency": "CNY"
+    },
+    {
+        "sku": "R20083",
+        "amount": "33.34",
+        "currency": "GBP"
+    },
+    {
+        "sku": "B20093",
+        "amount": "23.18",
+        "currency": "EUR"
+    }
+]
